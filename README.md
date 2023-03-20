@@ -1,2 +1,3 @@
 # foamstory
-FIrebase and Next driven story app
+
+Firebase and Next driven story app
